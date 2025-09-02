@@ -8,7 +8,7 @@
 - Gmail: Open the email, click the three dots (⋮), and select Show original.
 <br>
 <br>
-<img width="1879" height="871" alt="Screenshot 2025-09-01 220218" src="https://github.com/user-attachments/assets/d61a779b-01ef-4e3a-9930-eaaa151acc89" />
+<img width="1879" height="871" alt="Screenshot 2025-09-01 220218" src="https://github.com/M4H619/img/blob/037918431d4f7967b00bedd8a4cd2d9d8f4c0bf2/Screenshot%202025-09-02%20112618.png" />
 
 <br>
 <br>
@@ -17,7 +17,7 @@
 - Select all the text in the header and copy it.
 
 <br>
-<img width="1465" height="910" alt="Screenshot 2025-09-01 220301" src="https://github.com/user-attachments/assets/e39cf803-1ca2-4120-86c7-ed3495d8f05c" />
+<img width="1465" height="910" alt="Screenshot 2025-09-01 220301" src="https://github.com/M4H619/img/blob/c0db7a1cc44c4e1df41b6d26b290fd69bd628d7a/Screenshot%202025-09-02%20114620.png" />
 
 <br>
 <br>
