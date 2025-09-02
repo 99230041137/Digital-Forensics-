@@ -50,7 +50,7 @@ A dialog box will appear where you configure where and how the memory will be sa
 <br>
 <br>
 
-<img width="641" height="496" alt="Screenshot 2025-09-01 153626" src="https://github.com/user-attachments/assets/df499331-ccb1-490d-ad38-492030bca78b" />
+<img width="641" height="496" alt="Screenshot 2025-09-01 153626" src="https://github.com/M4H619/img/blob/085c01bad0f5e03067ea7a0462b563ee9fdd5068/Screenshot%202025-09-02%20110506.png" />
 
 <br>
 <br>
@@ -61,7 +61,7 @@ A dialog box will appear where you configure where and how the memory will be sa
 <br>
 
 
-<img width="783" height="499" alt="Screenshot 2025-09-01 153712" src="https://github.com/user-attachments/assets/915a3985-7abd-4f94-83d4-7f1e0bf5670f" />
+<img width="783" height="499" alt="Screenshot 2025-09-01 153712" src="https://github.com/M4H619/img/blob/085c01bad0f5e03067ea7a0462b563ee9fdd5068/Screenshot%202025-09-02%20110527.png" />
 
 <br>
 <br>
@@ -147,7 +147,7 @@ A window will appear asking you to choose the source type:
   - Enter case details, examiner name, and description.  
   - This information is stored in the image metadata (important for documentation).
  <p align="center">
-<img width="1302" height="1025" alt="Screenshot 2025-09-01 154252" src="https://github.com/srihari2082005-ctrl/img-1/blob/6385ac02ceed0f5c6c99b818d417a5c9ea3c9811/Screenshot%202025-09-01%20223251.png" />
+<img width="1302" height="1025" alt="Screenshot 2025-09-01 154252" src="https://github.com/M4H619/img/blob/085c01bad0f5e03067ea7a0462b563ee9fdd5068/Screenshot%202025-09-02%20110818.png" />
 
 </p>
 <br>
@@ -164,7 +164,7 @@ A window will appear asking you to choose the source type:
   <br>
   
 <p align="center">
-<img width="1359" height="1004" alt="Screenshot 2025-09-01 154325" src="https://github.com/srihari2082005-ctrl/img-1/blob/6385ac02ceed0f5c6c99b818d417a5c9ea3c9811/Screenshot%202025-09-01%20223944.png" />
+<img width="1359" height="1004" alt="Screenshot 2025-09-01 154325" src="https://github.com/M4H619/img/blob/085c01bad0f5e03067ea7a0462b563ee9fdd5068/Screenshot%202025-09-02%20110912.png" />
 
 </p>
 <br>
