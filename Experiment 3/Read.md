@@ -42,7 +42,7 @@
  <br>
    <br>
   <p align="center">
-<img width="1580" height="892" alt="Screenshot 2025-09-01 215438" src="https://github.com/srihari2082005-ctrl/img-1/blob/6385ac02ceed0f5c6c99b818d417a5c9ea3c9811/Screenshot%202025-09-01%20211711.png" />
+<img width="1580" height="892" alt="Screenshot 2025-09-01 215438" src="https://github.com/M4H619/img/blob/3fa36499e82e54cb9389c1bc2595d29ce9299c88/Screenshot%202025-09-02%20111830.png" />
 
 
  </p>
